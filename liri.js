@@ -25,7 +25,7 @@ var pick = function (userInput, userQuery) {
       doThis(userQuery);
       break;
     default:
-      console.log("I don't understand");
+      console.log("I don't understand this is dumb");
       break;
     // default:
     //   console.log('Liri does not know that');
